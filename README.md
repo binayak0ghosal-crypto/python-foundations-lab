@@ -14,7 +14,3 @@ A collection of core high school laboratory practicals showcasing foundational c
 | `8.py`/`9.py`   | Text stream processor for local files(PARA.txt).          | File I/O operations(`open()`, `with` statements), string serializations & formatting.|
 | `10.py`         | Line-filters for text lines across selected files.         | Multi-file operations, complex conditional filters(`not in`), persistent writing(`'w'`).|
 
-## Execution
-All modules can be run through terminal by executing the following command:
-```bash
-python <filename>.py
